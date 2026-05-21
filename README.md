@@ -57,11 +57,15 @@ These columns helped in analyzing sales trends over time.
 I grouped the sales data by year and created a line graph to analyze yearly sales trends. This helped identify whether sales increased or decreased over time.
 
 ---
+#### Yearly Sales Trend
+![Yearly Sales](output/Screenshot 2026-05-21 104420.png)
+
 
 ### 5. Monthly Sales Analysis
 I analyzed monthly sales performance to understand which months had higher or lower sales. This can help businesses plan marketing and inventory strategies.
 
 ---
+#### Monthly Sales Analysis
 
 ### 6. Top Products Analysis
 I identified the top 10 products with the highest sales using bar charts. This helped understand customer demand and the best-performing products.
