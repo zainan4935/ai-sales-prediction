@@ -58,7 +58,7 @@ I grouped the sales data by year and created a line graph to analyze yearly sale
 
 ---
 #### Yearly Sales Trend
-[Yearly Sales](output/Screenshot 2026-05-21 104420.png)
+![Yearly Sales](output/Screenshot 2026-05-21 104420.png)
 
 
 ### 5. Monthly Sales Analysis
