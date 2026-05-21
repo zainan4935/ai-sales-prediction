@@ -7,7 +7,7 @@ import seaborn as sns
 
 #Load Dataset
 
-df = pd.read_csv("data/Sample - Superstore.csv")
+df = pd.read_excel(r"data\Sample - Superstore.xls")
 df.head()
 
 df.shape
