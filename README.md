@@ -81,7 +81,7 @@ I compared sales performance across different regions to determine which regions
 
 ---
 #### Region-wise Sales Analysis
-![Region-wise Sales Analysis]
+![Region-wise Sales Analysis](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104510.png)
 
 
 ## Machine Learning Model
@@ -131,6 +131,8 @@ These metrics helped evaluate how accurately the model predicted sales.
 I created a scatter plot comparing actual sales and predicted sales values. This visualization helped understand the prediction accuracy of the model.
 
 ---
+####  Actual vs Predicted analysis
+![Actual vs Predicted analysis]()
 
 ## Future Sales Prediction
 
