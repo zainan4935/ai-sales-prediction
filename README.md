@@ -53,7 +53,7 @@ These columns helped in analyzing sales trends over time.
 
 ## Exploratory Data Analysis (EDA)
 
-### 4. Yearly Sales Analysis
+###  Yearly Sales Analysis
 I grouped the sales data by year and created a line graph to analyze yearly sales trends. This helped identify whether sales increased or decreased over time.
 
 ---
@@ -61,7 +61,7 @@ I grouped the sales data by year and created a line graph to analyze yearly sale
 ![Yearly Sales](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104420.png)
 
 
-### 5. Monthly Sales Analysis
+###  Monthly Sales Analysis
 I analyzed monthly sales performance to understand which months had higher or lower sales. This can help businesses plan marketing and inventory strategies.
 
 ---
@@ -69,14 +69,14 @@ I analyzed monthly sales performance to understand which months had higher or lo
 ![Monthly Sales Analysis](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104440.png)
 
 
-### 6. Top Products Analysis
+### Top Products Analysis
 I identified the top 10 products with the highest sales using bar charts. This helped understand customer demand and the best-performing products.
 
 ---
 #### Top Products Analysis
 ![Top Products Analysis](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104455.png)
 
-### 7. Region-wise Sales Analysis
+### Region-wise Sales Analysis
 I compared sales performance across different regions to determine which regions generated more revenue for the business.
 
 ---
@@ -86,7 +86,7 @@ I compared sales performance across different regions to determine which regions
 
 ## Machine Learning Model
 
-### 8. Feature Selection
+### 1. Feature Selection
 For prediction, I selected:
 
 - Year  
@@ -100,7 +100,7 @@ as the target variable.
 
 ---
 
-### 9. Splitting the Dataset
+### 2. Splitting the Dataset
 The dataset was divided into:
 
 - Training data (80%)  
@@ -110,7 +110,7 @@ This helped train and evaluate the model properly.
 
 ---
 
-### 10. Building the Prediction Model
+### 3. Building the Prediction Model
 I used the Linear Regression algorithm from Scikit-learn to train the model. The model learned patterns from historical sales data and predicted future sales values.
 
 ---
@@ -132,7 +132,7 @@ I created a scatter plot comparing actual sales and predicted sales values. This
 
 ---
 ####  Actual vs Predicted analysis
-![Actual vs Predicted analysis]()
+![Actual vs Predicted analysis](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104523.png)
 
 ## Future Sales Prediction
 
