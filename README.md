@@ -73,6 +73,8 @@ I analyzed monthly sales performance to understand which months had higher or lo
 I identified the top 10 products with the highest sales using bar charts. This helped understand customer demand and the best-performing products.
 
 ---
+#### Top Products Analysis
+![Top Products Analysis](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104455.png)
 
 ### 7. Region-wise Sales Analysis
 I compared sales performance across different regions to determine which regions generated more revenue for the business.
