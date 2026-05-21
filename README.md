@@ -66,6 +66,8 @@ I analyzed monthly sales performance to understand which months had higher or lo
 
 ---
 #### Monthly Sales Analysis
+![Monthly Sales Analysis](https://github.com/zainan4935/ai-sales-prediction/blob/main/output/Screenshot%202026-05-21%20104440.png)
+
 
 ### 6. Top Products Analysis
 I identified the top 10 products with the highest sales using bar charts. This helped understand customer demand and the best-performing products.
