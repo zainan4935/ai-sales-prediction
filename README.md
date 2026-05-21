@@ -80,6 +80,9 @@ I identified the top 10 products with the highest sales using bar charts. This h
 I compared sales performance across different regions to determine which regions generated more revenue for the business.
 
 ---
+#### Region-wise Sales Analysis
+![Region-wise Sales Analysis]
+
 
 ## Machine Learning Model
 
